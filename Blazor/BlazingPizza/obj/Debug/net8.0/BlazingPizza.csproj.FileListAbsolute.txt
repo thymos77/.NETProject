@@ -63,3 +63,4 @@ D:\Repository\.NETProject\Blazor\BlazingPizza\obj\Debug\net8.0\refint\BlazingPiz
 D:\Repository\.NETProject\Blazor\BlazingPizza\obj\Debug\net8.0\BlazingPizza.pdb
 D:\Repository\.NETProject\Blazor\BlazingPizza\obj\Debug\net8.0\BlazingPizza.genruntimeconfig.cache
 D:\Repository\.NETProject\Blazor\BlazingPizza\obj\Debug\net8.0\ref\BlazingPizza.dll
+D:\Repository\.NETProject\Blazor\BlazingPizza\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

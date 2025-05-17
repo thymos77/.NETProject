@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IdeaAppCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IdeaAppCore.61xukcd0jc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdeaAppCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdeaAppCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IdeaAppCore.props",
+      "PackagePath": "build\\IdeaAppCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IdeaAppCore.props",
+      "PackagePath": "buildMultiTargeting\\IdeaAppCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IdeaAppCore.props",
+      "PackagePath": "buildTransitive\\IdeaAppCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

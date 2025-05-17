@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D66F358F-FE0C-47BC-9A33-0CBA72BA2F41}|IdeaAppCore.csproj|d:\\repository\\.netproject\\blazor\\ideaappcore\\components\\models\\idea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66F358F-FE0C-47BC-9A33-0CBA72BA2F41}|IdeaAppCore.csproj|solutionrelative:components\\models\\idea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66F358F-FE0C-47BC-9A33-0CBA72BA2F41}|IdeaAppCore.csproj|d:\\repository\\.netproject\\blazor\\ideaappcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D66F358F-FE0C-47BC-9A33-0CBA72BA2F41}|IdeaAppCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Idea.cs",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\Components\\Models\\Idea.cs",
+              "RelativeDocumentMoniker": "Components\\Models\\Idea.cs",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\Components\\Models\\Idea.cs",
+              "RelativeToolTip": "Components\\Models\\Idea.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:01:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\IdeaAppCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T02:59:28.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

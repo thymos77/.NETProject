@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ModernTemplate.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ModernTemplate.ja9opgsr2e.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ModernTemplate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ModernTemplate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ModernTemplate.props",
+      "PackagePath": "build\\ModernTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ModernTemplate.props",
+      "PackagePath": "buildMultiTargeting\\ModernTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ModernTemplate.props",
+      "PackagePath": "buildTransitive\\ModernTemplate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
