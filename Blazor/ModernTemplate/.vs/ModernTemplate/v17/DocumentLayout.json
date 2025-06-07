@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|d:\\repository\\.netproject\\blazor\\moderntemplate\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|d:\\repository\\.netproject\\blazor\\moderntemplate\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|d:\\repository\\.netproject\\blazor\\moderntemplate\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|d:\\repository\\.netproject\\blazor\\moderntemplate\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|solutionrelative:components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|d:\\repository\\.netproject\\blazor\\moderntemplate\\wwwroot\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|solutionrelative:wwwroot\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|d:\\repository\\.netproject\\blazor\\moderntemplate\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|d:\\repository\\.netproject\\blazor\\moderntemplate\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1301DA-3B6B-4534-BD01-22A43C03649A}|ModernTemplate.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-18T02:20:28.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "about.html",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\about.html",
+              "RelativeDocumentMoniker": "wwwroot\\about.html",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\about.html",
+              "RelativeToolTip": "wwwroot\\about.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-18T02:12:54.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T02:12:32.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.razor",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\About.razor",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Pages\\About.razor",
+              "RelativeToolTip": "Components\\Pages\\About.razor",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAzwFwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T02:12:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T02:11:42.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T02:11:35.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T01:00:37.584Z",
+              "EditorCaption": ""
             }
           ]
         }

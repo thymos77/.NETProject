@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ayI3VCpo/MYxx3nrd5AKjQNCAl6EEV0LA4vfOYw1wQE=",
+  "Hash": "mrH7fRRpcz0XzfAlNWjyAcWhlaMqDv3ZgWpgkXXANwg=",
   "Source": "ModernTemplate",
   "BasePath": "_content/ModernTemplate",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ModernTemplate.bundle.scp.css"
     },
     {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\about.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "about#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xhpduxyc54",
+      "Integrity": "VeQZxEzs/55bFFo+xFk2RoAThucTGQP6B7L7TBmG0rA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\about.html"
+    },
+    {
       "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\app.css",
       "SourceId": "ModernTemplate",
       "SourceType": "Discovered",
@@ -78,6 +99,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "assets/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devepoo3hg",
+      "Integrity": "ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-home.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "blog-home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i5e5vzj9d7",
+      "Integrity": "Gs7VfejjSY2fMsEPo1iZcuxh0I6ij0+IzP2jSYIfHAU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blog-home.html"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-post.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "blog-post#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ocn0h3is6l",
+      "Integrity": "yMwDx/GFNpLw4WbkJb3HzypvOShdK33bzF4W4hwspDE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blog-post.html"
     },
     {
       "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\bootstrap\\bootstrap.min.css",
@@ -122,6 +206,69 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\contact.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "contact#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vyq4s12vqw",
+      "Integrity": "eX7yX4Dafd2etsn6UBRFOYBeQE660w68fNfQP7dbkXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\contact.html"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\css\\styles.css",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jhohyt4jks",
+      "Integrity": "yXM42xTmaib7czqYLTxR9VrP9jjeNER2fk9vCWRqEGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\faq.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "faq#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gzfbe884jv",
+      "Integrity": "VGyrKzC1+6bNSiJDZjknBOs/qLdGlJJPBri0xRWPJZo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\faq.html"
+    },
+    {
       "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\favicon.png",
       "SourceId": "ModernTemplate",
       "SourceType": "Discovered",
@@ -141,9 +288,196 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\index.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1wgl7rac9w",
+      "Integrity": "wZtMA9Pje2ZsdGhGliBREdL6NVP5kyZkhmVRDviP8I0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\js\\scripts.js",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e85ctarwvd",
+      "Integrity": "ggXE1zMgNIiI5G6/snlu5wHcJBaAHlTY9JFiCpxvbB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-item.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "portfolio-item#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pcdx5g8lyl",
+      "Integrity": "Jxl0ObSLltPQFhOl+iejMR4r9KGnUJWZVPPle4RJ56Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\portfolio-item.html"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-overview.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "portfolio-overview#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmux1fl2kw",
+      "Integrity": "t9mRu2BwHbSD/CqfUzo08f9GSRrkBuQkhIjNYKUwwXM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\portfolio-overview.html"
+    },
+    {
+      "Identity": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\pricing.html",
+      "SourceId": "ModernTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\",
+      "BasePath": "_content/ModernTemplate",
+      "RelativePath": "pricing#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6lq0jbsfu1",
+      "Integrity": "mgXKz8BPH64YFPqHmmcfgRIWtGXEV8p93oTcjN5EdG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pricing.html"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "about.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeQZxEzs/55bFFo+xFk2RoAThucTGQP6B7L7TBmG0rA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeQZxEzs/55bFFo+xFk2RoAThucTGQP6B7L7TBmG0rA="
+        }
+      ]
+    },
+    {
+      "Route": "about.xhpduxyc54.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeQZxEzs/55bFFo+xFk2RoAThucTGQP6B7L7TBmG0rA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xhpduxyc54"
+        },
+        {
+          "Name": "label",
+          "Value": "about.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeQZxEzs/55bFFo+xFk2RoAThucTGQP6B7L7TBmG0rA="
+        }
+      ]
+    },
     {
       "Route": "app.css",
       "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\app.css",
@@ -223,6 +557,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/favicon.devepoo3hg.ico",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "assets/favicon.ico",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "blog-home.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gs7VfejjSY2fMsEPo1iZcuxh0I6ij0+IzP2jSYIfHAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gs7VfejjSY2fMsEPo1iZcuxh0I6ij0+IzP2jSYIfHAU="
+        }
+      ]
+    },
+    {
+      "Route": "blog-home.i5e5vzj9d7.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gs7VfejjSY2fMsEPo1iZcuxh0I6ij0+IzP2jSYIfHAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5e5vzj9d7"
+        },
+        {
+          "Name": "label",
+          "Value": "blog-home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gs7VfejjSY2fMsEPo1iZcuxh0I6ij0+IzP2jSYIfHAU="
+        }
+      ]
+    },
+    {
+      "Route": "blog-post.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-post.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yMwDx/GFNpLw4WbkJb3HzypvOShdK33bzF4W4hwspDE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yMwDx/GFNpLw4WbkJb3HzypvOShdK33bzF4W4hwspDE="
+        }
+      ]
+    },
+    {
+      "Route": "blog-post.ocn0h3is6l.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-post.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yMwDx/GFNpLw4WbkJb3HzypvOShdK33bzF4W4hwspDE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ocn0h3is6l"
+        },
+        {
+          "Name": "label",
+          "Value": "blog-post.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yMwDx/GFNpLw4WbkJb3HzypvOShdK33bzF4W4hwspDE="
         }
       ]
     },
@@ -391,6 +971,252 @@
       ]
     },
     {
+      "Route": "contact.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\contact.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eX7yX4Dafd2etsn6UBRFOYBeQE660w68fNfQP7dbkXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eX7yX4Dafd2etsn6UBRFOYBeQE660w68fNfQP7dbkXo="
+        }
+      ]
+    },
+    {
+      "Route": "contact.vyq4s12vqw.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\contact.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eX7yX4Dafd2etsn6UBRFOYBeQE660w68fNfQP7dbkXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vyq4s12vqw"
+        },
+        {
+          "Name": "label",
+          "Value": "contact.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eX7yX4Dafd2etsn6UBRFOYBeQE660w68fNfQP7dbkXo="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yXM42xTmaib7czqYLTxR9VrP9jjeNER2fk9vCWRqEGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yXM42xTmaib7czqYLTxR9VrP9jjeNER2fk9vCWRqEGM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.jhohyt4jks.css",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yXM42xTmaib7czqYLTxR9VrP9jjeNER2fk9vCWRqEGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jhohyt4jks"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yXM42xTmaib7czqYLTxR9VrP9jjeNER2fk9vCWRqEGM="
+        }
+      ]
+    },
+    {
+      "Route": "faq.gzfbe884jv.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\faq.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGyrKzC1+6bNSiJDZjknBOs/qLdGlJJPBri0xRWPJZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzfbe884jv"
+        },
+        {
+          "Name": "label",
+          "Value": "faq.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGyrKzC1+6bNSiJDZjknBOs/qLdGlJJPBri0xRWPJZo="
+        }
+      ]
+    },
+    {
+      "Route": "faq.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\faq.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGyrKzC1+6bNSiJDZjknBOs/qLdGlJJPBri0xRWPJZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGyrKzC1+6bNSiJDZjknBOs/qLdGlJJPBri0xRWPJZo="
+        }
+      ]
+    },
+    {
       "Route": "favicon.ifv42okdf2.png",
       "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\favicon.png",
       "Selectors": [],
@@ -469,6 +1295,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "index.1wgl7rac9w.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wZtMA9Pje2ZsdGhGliBREdL6NVP5kyZkhmVRDviP8I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1wgl7rac9w"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wZtMA9Pje2ZsdGhGliBREdL6NVP5kyZkhmVRDviP8I0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wZtMA9Pje2ZsdGhGliBREdL6NVP5kyZkhmVRDviP8I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wZtMA9Pje2ZsdGhGliBREdL6NVP5kyZkhmVRDviP8I0="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.e85ctarwvd.js",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggXE1zMgNIiI5G6/snlu5wHcJBaAHlTY9JFiCpxvbB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e85ctarwvd"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggXE1zMgNIiI5G6/snlu5wHcJBaAHlTY9JFiCpxvbB8="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggXE1zMgNIiI5G6/snlu5wHcJBaAHlTY9JFiCpxvbB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggXE1zMgNIiI5G6/snlu5wHcJBaAHlTY9JFiCpxvbB8="
         }
       ]
     },
@@ -633,6 +1623,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-C74slzW7jdtqRjI9P4xL6wU94ldrWdWli0NXLweYPpA="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio-item.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-item.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jxl0ObSLltPQFhOl+iejMR4r9KGnUJWZVPPle4RJ56Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jxl0ObSLltPQFhOl+iejMR4r9KGnUJWZVPPle4RJ56Y="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio-item.pcdx5g8lyl.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-item.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jxl0ObSLltPQFhOl+iejMR4r9KGnUJWZVPPle4RJ56Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pcdx5g8lyl"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio-item.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jxl0ObSLltPQFhOl+iejMR4r9KGnUJWZVPPle4RJ56Y="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio-overview.hmux1fl2kw.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-overview.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9mRu2BwHbSD/CqfUzo08f9GSRrkBuQkhIjNYKUwwXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmux1fl2kw"
+        },
+        {
+          "Name": "label",
+          "Value": "portfolio-overview.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9mRu2BwHbSD/CqfUzo08f9GSRrkBuQkhIjNYKUwwXM="
+        }
+      ]
+    },
+    {
+      "Route": "portfolio-overview.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-overview.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9mRu2BwHbSD/CqfUzo08f9GSRrkBuQkhIjNYKUwwXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9mRu2BwHbSD/CqfUzo08f9GSRrkBuQkhIjNYKUwwXM="
+        }
+      ]
+    },
+    {
+      "Route": "pricing.6lq0jbsfu1.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\pricing.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mgXKz8BPH64YFPqHmmcfgRIWtGXEV8p93oTcjN5EdG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6lq0jbsfu1"
+        },
+        {
+          "Name": "label",
+          "Value": "pricing.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mgXKz8BPH64YFPqHmmcfgRIWtGXEV8p93oTcjN5EdG8="
+        }
+      ]
+    },
+    {
+      "Route": "pricing.html",
+      "AssetFile": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\pricing.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mgXKz8BPH64YFPqHmmcfgRIWtGXEV8p93oTcjN5EdG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mgXKz8BPH64YFPqHmmcfgRIWtGXEV8p93oTcjN5EdG8="
         }
       ]
     }

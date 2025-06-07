@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\ModernTemplate.ja9opgsr2e.bundle.scp.css"
     },
     {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
       "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-home.html",
+      "PackagePath": "staticwebassets\\blog-home.html"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\blog-post.html",
+      "PackagePath": "staticwebassets\\blog-post.html"
     },
     {
       "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\bootstrap\\bootstrap.min.css",
@@ -17,8 +33,40 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\faq.html",
+      "PackagePath": "staticwebassets\\faq.html"
+    },
+    {
       "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-item.html",
+      "PackagePath": "staticwebassets\\portfolio-item.html"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\portfolio-overview.html",
+      "PackagePath": "staticwebassets\\portfolio-overview.html"
+    },
+    {
+      "Id": "D:\\Repository\\.NETProject\\Blazor\\ModernTemplate\\wwwroot\\pricing.html",
+      "PackagePath": "staticwebassets\\pricing.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ModernTemplate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -1,4 +1,16 @@
+wwwroot\about.html
 wwwroot\app.css
+wwwroot\assets\favicon.ico
+wwwroot\blog-home.html
+wwwroot\blog-post.html
 wwwroot\bootstrap\bootstrap.min.css
 wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\contact.html
+wwwroot\css\styles.css
+wwwroot\faq.html
 wwwroot\favicon.png
+wwwroot\index.html
+wwwroot\js\scripts.js
+wwwroot\portfolio-item.html
+wwwroot\portfolio-overview.html
+wwwroot\pricing.html
